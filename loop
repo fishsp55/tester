@@ -2,3 +2,7 @@ int num = 5;
 for (int i = 0; i < num; i++){
   System.out.println("The current number is " + num);
   }
+I want to add something here. 
+this is crazy crazy crazy
+i love bananas
+why me?
